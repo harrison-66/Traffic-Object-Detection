@@ -2,7 +2,7 @@
 
 This project uses TensorFlow with SSD MobileNet V2 FPNLite 320x320 to detect cars on a busy road outside an apartment. The detected cars are then streamed to an intermediate CSV file using Python. After the script stops each night, another function called process_csv recognizes and counts cars along with their directions, and saves the results to a final CSV file.
 
-* [Data Report](media/7-17-Report.md) *
+**[Data Report](media/7-17-Report.md)**
 
 ![Photo1](media/photo1.png) ![Photo2](media/photo2.png)
 
